@@ -1,0 +1,4 @@
+main: io.github.homelyseven250.firstplugin.FirstPlugin
+name: FirstPlugin
+version: 1.0
+author: homelyseven250

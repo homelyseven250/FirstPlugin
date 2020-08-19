@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: ${project.version}
+main: io.github.homelyseven250.firstplugin.FirstPlugin
+api-version: 1.16
